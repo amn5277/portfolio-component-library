@@ -29,7 +29,7 @@ hr{
 .link{
     text-decoration: none;
     margin: 0px 5px;
-    padding: 0.5rem 0.5rem;
+    padding: 0.1rem 0.5rem;
 }
 
 .link-primary{
@@ -56,3 +56,28 @@ hr{
     padding: 0rem 0.3rem;
 }
 
+/* Navigation */
+
+.navigation{
+    background-color: var(--primary-color);
+    padding: 0.5rem 0.5rem;
+    color: white;
+    border-bottom-left-radius: 1rem;
+
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.navigation .nav-pills{
+    text-align: right;
+}
+.navigation .link{
+    color: white;
+}
+
+
+.navigation .link-active{
+    font-weight: bold;
+}
