@@ -3,3 +3,14 @@
 body{
     font-family: 'Montserrat', sans-serif;
 }
+
+/* containers */
+
+.container{
+    margin: 0.5rem 0.5rem;
+}
+
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
