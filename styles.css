@@ -43,3 +43,16 @@ hr{
     border: 2px solid grey;
     border-radius: 0.2rem;
 }
+
+
+/* Lists */
+
+.list-non-bullet{
+ list-style: none;
+}
+
+.list-item-inline{
+    display: inline;
+    padding: 0rem 0.3rem;
+}
+
